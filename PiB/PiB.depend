@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1438795971 source:e:\codeforce\pib\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+

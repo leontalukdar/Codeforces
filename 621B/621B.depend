@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1454270673 source:e:\codeforce\621b\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<algorithm>
+	<vector>
+	<string>
+	<map>
+

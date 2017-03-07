@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439745263 source:e:\codeforce\443a\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+

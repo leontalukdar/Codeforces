@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1436688028 source:e:\codeforce\208a\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

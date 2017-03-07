@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434122402 source:e:\codeforce\twosubstring\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+

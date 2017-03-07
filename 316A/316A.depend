@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1439489460 source:e:\codeforce\316a\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstdio>
+	<math.h>
+	<cstring>
+	<vector>
+	<algorithm>
+	<ctype.h>
+
